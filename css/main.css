@@ -478,8 +478,7 @@ body {
 
 .article-button-link:hover {
     background-color: #DE2E54;
-    border: none;
-    padding: 14px 26px;
+    border: 2px solid transparent;
     transition: 0.3s ease;
 }
 
